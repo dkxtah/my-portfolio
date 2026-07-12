@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import useNav from "./useNav";
 import swiftwingsImg from "./img/swiftwings.png";
-import capitalwiseImg from "./img/capitalwise.png";
+// import capitalwiseImg from "./img/capitalwise.png";
 import trygruppImg from "./img/trygrupp.png";
 import phliptechImg from "./img/phliptech.png";
 import secondwalletImg from "./img/secondwallet.png";
@@ -16,35 +16,35 @@ function Projects() {
       about: "A website for private jets hire.",
       image: swiftwingsImg,
       link: "https://www.swiftwingsjet.com/",
-      github: "https://github.com/codeAmbivert",
+      github: "https://github.com/dkxtah",
     },
-    {
-      name: "Capitalwise",
-      about: "A loan management web app.",
-      image: capitalwiseImg,
-      link: "https://www.capitalwise.com/",
-      github: "https://github.com/codeAmbivert",
-    },
+    // {
+    //   name: "Capitalwise",
+    //   about: "A loan management web app.",
+    //   image: capitalwiseImg,
+    //   link: "https://www.capitalwisepayment.com/",
+    //   github: "https://github.com/dkxtah",
+    // },
     {
       name: "Trygrupp",
       about: "A Banking as a service platform.",
       image: trygruppImg,
-      link: "https://www.trygrupp.com/",
-      github: "https://github.com/codeAmbivert",
+      link: "https://www.trygrupp.africa/",
+      github: "https://github.com/dkxtah",
     },
     {
       name: "Phliptech",
       about: "A tech solutions provider.",
       image: phliptechImg,
-      link: "https://www.phliptech.com/",
-      github: "https://github.com/codeAmbivert",
+      link: "https://www.phliptechlabs.com/",
+      github: "https://github.com/dkxtah",
     },
     {
       name: "SecondWallet",
       about: "Internal loan management system.",
       image: secondwalletImg,
       link: "https://www.secondwallet.ng/",
-      github: "https://github.com/codeAmbivert",
+      github: "https://github.com/dkxtah",
     },
   ];
   return (
